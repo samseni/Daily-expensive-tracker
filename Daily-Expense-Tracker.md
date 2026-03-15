@@ -1,3 +1,4 @@
+
 # Daily Expense Tracker - Complete Project Documentation
 
 ## Table of Contents
